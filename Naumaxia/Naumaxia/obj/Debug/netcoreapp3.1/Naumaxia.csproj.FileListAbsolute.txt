@@ -1,0 +1,113 @@
+D:\C#\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.exe
+D:\C#\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.deps.json
+D:\C#\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.runtimeconfig.json
+D:\C#\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.runtimeconfig.dev.json
+D:\C#\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.dll
+D:\C#\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.pdb
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.Form1.resources
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.GenerateResource.cache
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.AssemblyInfoInputs.cache
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.AssemblyInfo.cs
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.CoreCompileInputs.cache
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.dll
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.pdb
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.genruntimeconfig.cache
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.Properties.Resources.resources
+D:\C#\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.AssemblyReference.cache
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.exe
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.deps.json
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.runtimeconfig.json
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.runtimeconfig.dev.json
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.pdb
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.AssemblyReference.cache
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.Form1.resources
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.Properties.Resources.resources
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.GenerateResource.cache
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.AssemblyInfoInputs.cache
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.AssemblyInfo.cs
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.CopyComplete
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.dll
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.pdb
+C:\Users\Dimitris Stylianou\Downloads\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.genruntimeconfig.cache
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.exe
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.deps.json
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.runtimeconfig.json
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.runtimeconfig.dev.json
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.pdb
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.AssemblyReference.cache
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.Form1.resources
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.Properties.Resources.resources
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.GenerateResource.cache
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.AssemblyInfoInputs.cache
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.AssemblyInfo.cs
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.CopyComplete
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.dll
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.pdb
+C:\Users\Dimitris Stylianou\Desktop\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.genruntimeconfig.cache
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.exe
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.deps.json
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.runtimeconfig.json
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.runtimeconfig.dev.json
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\Naumaxia.pdb
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.AssemblyReference.cache
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.Form1.resources
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.Properties.Resources.resources
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.GenerateResource.cache
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.AssemblyInfoInputs.cache
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.AssemblyInfo.cs
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.CoreCompileInputs.cache
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.csproj.CopyComplete
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.dll
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.pdb
+D:\Panepistimio@\3o examino@\Αντικειμενοστρεφής Ανάπτυξη Εφαρμογών\Εργασίες\Τελική εργασία\Τελική Εργασία\Naumaxia\Naumaxia\obj\Debug\netcoreapp3.1\Naumaxia.genruntimeconfig.cache
